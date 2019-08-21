@@ -25,6 +25,8 @@ class MyApp extends App {
                     <meta name='viewport' content='width=device, initial-scale=1, shrink-to-fit=no' />
 
                     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css" />
+
+                    <title>GIT TISSUE</title>
                 </Head>
 
                 <Component {...pageProps} />

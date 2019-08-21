@@ -10307,7 +10307,7 @@ function (_App) {
       }), __jsx("link", {
         rel: "stylesheet",
         href: "https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css"
-      })), __jsx(Component, pageProps));
+      }), __jsx("title", null, "GIT TISSUE")), __jsx(Component, pageProps));
     }
   }], [{
     key: "getInitialProps",

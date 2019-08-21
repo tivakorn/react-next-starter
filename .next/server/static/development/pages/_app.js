@@ -706,7 +706,7 @@ class MyApp extends next_app__WEBPACK_IMPORTED_MODULE_1___default.a {
     }), __jsx("link", {
       rel: "stylesheet",
       href: "https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css"
-    })), __jsx(Component, pageProps));
+    }), __jsx("title", null, "GIT TISSUE")), __jsx(Component, pageProps));
   }
 
 }
