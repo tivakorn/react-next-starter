@@ -6181,7 +6181,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      (0, _sourceMapSupport.rewriteStacktrace)(error, "/Users/tivakorn/react-next-starter/.next");
+      (0, _sourceMapSupport.rewriteStacktrace)(error, "E:\\react-next-starter\\.next");
       return error;
     }
   };
